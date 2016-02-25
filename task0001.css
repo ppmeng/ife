@@ -1,11 +1,21 @@
+body{
+	background-image:url(http://img.taopic.com/uploads/allimg/140403/234713-14040322513233.jpg);
+}
 h1 {
+	text-transform: capitalize;
 	color:#00f;
+    font-family:cursive;
 }
 h2 {
 	font-size:14px;
 }
 p{
+	text-indent:5em;
+	text-align:left;
+	word-spacing:5px;
+	line-height:150%;
     font-size: 12px;
+    font-family:cursive;
     color:#ff0;
 	background: #000;
 }
