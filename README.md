@@ -1,1 +1,0 @@
-https://github.com/baidu-ife/ife/blob/master/2015_spring/task/task0001/README.md
