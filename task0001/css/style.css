@@ -362,6 +362,7 @@ a{
 	border-collapse:collapse
 }
 .calendar td{
+	width: 40px;
     color:#888;
     border-bottom: 1px solid #DDA0DD;
 }
@@ -646,6 +647,7 @@ a{
 	border-radius: 50%;
 	border: 10px solid #e6e6fa;
 }
+
 .info-contact img,
 .info-edu img,
 .info-work img{

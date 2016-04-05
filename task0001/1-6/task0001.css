@@ -26,7 +26,7 @@ img{
 	width: 960px;
 	height: 50px;
 	background-color: red;
-	margin: auto;
+	margin: 100px auto 0;
 	/*div中内容居中*/
 	line-height: 50px;
 	text-align: center;
